@@ -6,3 +6,4 @@ Current projects include:
 * Car price prediction
 * Income per capita forcast
 * House price prediction
+* WW2 weather prediction
