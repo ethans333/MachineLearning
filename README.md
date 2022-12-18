@@ -12,6 +12,8 @@ Includes all machine learning projects i've worked on, documenting my journey th
 [Label Encoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html) <br>
 [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) <br>
 [QuickDraw](https://quickdraw.readthedocs.io/en/latest/) <br>
+[Train Test Split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) <br>
+[Support Vector Machine](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) <br>
 
 <!---
 []() <br>
