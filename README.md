@@ -19,6 +19,7 @@ Includes all machine learning projects i've worked on, documenting my journey th
 [Label Encoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html) <br>
 [Train Test Split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html) <br>
 [Heat Map](https://seaborn.pydata.org/generated/seaborn.heatmap.html) <br>
+[Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html) <br>
 
 **Datasets** <br>
 [QuickDraw](https://quickdraw.readthedocs.io/en/latest/) <br>
