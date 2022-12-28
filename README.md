@@ -29,4 +29,9 @@ Includes all machine learning projects i've worked on, documenting my journey th
 []() <br>
 --->
 
+## Notes
+Output, Input activation functions: Step function, Sigmoid, tanh.
+Hidden layer activation functions: ReLU, Leaky ReLU.
+
+
 
