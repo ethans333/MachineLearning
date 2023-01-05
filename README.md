@@ -21,6 +21,7 @@ Includes all machine learning projects i've worked on, documenting my journey th
 [Heat Map](https://seaborn.pydata.org/generated/seaborn.heatmap.html) <br>
 [Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html) <br>
 [Keras](https://www.tensorflow.org/api_docs/python/tf/keras) <br>
+[Min Max Scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html) <br>
 
 **Datasets** <br>
 [QuickDraw](https://quickdraw.readthedocs.io/en/latest/) <br>
@@ -33,6 +34,9 @@ Includes all machine learning projects i've worked on, documenting my journey th
 Output, Input activation functions: Step function, Sigmoid, tanh. <br>
 Hidden layer activation functions: ReLU, Leaky ReLU. <br>
 For logistic regression use the 'binary cross entropy' loss function. <br>
+Gradient descent agjust weights for each and every data sample per epoch. <br>
+Stochastic Gradient descent adjusts weights for a random data sample per epoch. (Used for many samples) <br>
+Minibatch Gradient descent adjust weights for a batch of random data samples per epoch. (Used for many samples) <br>
 
 
 
