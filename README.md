@@ -37,6 +37,7 @@ For logistic regression use the 'binary cross entropy' loss function. <br>
 Gradient descent agjust weights for each and every data sample per epoch. <br>
 Stochastic Gradient descent adjusts weights for a random data sample per epoch. (Used for many samples) <br>
 Minibatch Gradient descent adjust weights for a batch of random data samples per epoch. (Used for many samples) <br>
+When using one hot encoding to categorize datasets use ```loss=categorical_cross_entropy```. <br>
 
 
 
